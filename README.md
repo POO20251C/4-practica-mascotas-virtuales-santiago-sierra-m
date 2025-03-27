@@ -4,14 +4,14 @@
 # Respuestas 
 
 """
-Respuesta de la 1
+Respuesta de la 1:
 Esta en Clion, por lo que es solo undirle al boton de ejecutar.
 
 
-Respuesta de la 2
+Respuesta de la 2:
 El programa permite a los usuarios registrarse, adoptar mascotas y entrenarlas mediante objetos y habilidades. Se mantiene un historial de eventos para cada mascota. Mediante diferentes clases, se pueden hacer diversas actividades y comprar diversas cosas para tu mascota, asi como que aprenda distintas habilidades, y se le pueda aumentar la experiencia de manera manual. Tambien esta la opcion de ver el historial de la mascota, en donde se podra ver todo lo que ha hecho. Los objetos estan unidos a la clase Tienda, en donde estan todos los objetos disponibles para comprar, y una vez comprados estos se le dan a tu mascota.
 
-Flujo de Interacción
+Flujo de Interacción:
 1 El usuario se registra en un std::map de usuarios.
 2 Puede adoptar una mascota, la cual se guarda en su mapa de mascotas.
 3 Puede darle objetos, modificando atributos de la mascota.
